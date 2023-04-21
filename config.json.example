@@ -1,0 +1,7 @@
+{
+	"domain": "foobar.com",
+	"name": "*",
+	"id": "123456789",
+	"secretapikey": "sk1_ace907ddd0c077989b2f13103f57e486e428696cb3cdb4cf036f8645b8c8a1d1",
+	"apikey": "pk1_e235719ea5f07a4db8b2c7d9b78ea8981103ed02befd5b210c8b156228cf0c8b"
+}

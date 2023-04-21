@@ -1,0 +1,5 @@
+# PyCharm settings:
+/.idea/
+
+# The real config (contains secrets):
+config.json
